@@ -1,0 +1,7 @@
+material_code,1
+min_bend_angle_before_hysteresis,3
+max_bend_angle_before_hysteresis,30
+heat_level,55
+heat_time,2.3
+heat_on_delay,1.5
+heat_off_delay,2.23

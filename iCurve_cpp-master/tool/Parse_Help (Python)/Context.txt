@@ -1,0 +1,2 @@
+This is a portion of the work I've done for Armour Technologies. This is is only section 
+that I am allowed to disclose due to signing an agreement prior to working. This file helps non-developers to create helper files for the main project. For more information on what I'm currently working on, visit https://www.curvemedical.com/
